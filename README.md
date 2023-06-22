@@ -39,6 +39,17 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 
 # Table of Contents
 
+checklist
+
+- [X] Lesson 1
+- [X] Lesson 2
+- [X] Lesson 3
+- [ ] Lesson 4
+- [ ] Lesson 5
+- [ ] Lesson 6
+- [ ] Lesson 7
+- [ ] Lesson 8 
+
 <details>
 <summary>Resources</summary>
 <ol>
